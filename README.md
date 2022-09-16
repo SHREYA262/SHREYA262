@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SHREYA262
-- 👀 I’m interested in different IT domains ...
-- 🌱 I’m currently learning c++  + android development ...
-- 💞️ I’m here to learning new things and collaborating...
-- 📫 How to reach me ...
+- 👀 I’m interested in Android Development and ML .
+- 🌱 I’m currently learning DSA  + ML .
+- 💞️ I’m here to learn from others and to share what I have learnt .
+- 📫 How to reach me https://www.linkedin.com/in/shreya-kumari-788406224/
+- 🤝 I believe in collaboration more than competition.
 
 <!---
 SHREYA262/SHREYA262 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
