@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SHREYA262
-- 👀 I’m interested in Android Development and ML .
-- 🌱 I’m currently learning DSA  + ML .
+- 👋 Hi, I’m Shreya
+- 👀 I’m interested in Android Development, Flutter Development and ML .
+- 🌱 I’m currently learning Web develpoment.
 - 💞️ I’m here to learn from others and to share what I have learnt .
 - 📫 How to reach me https://www.linkedin.com/in/shreya-kumari-788406224/
 - 🤝 I believe in collaboration more than competition.
